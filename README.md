@@ -1,13 +1,13 @@
 ## Olá, Eu sou o Vinicios Macario, Programador Junior :D
 <div align="center">
   <a href="https://github.com/JackWyus">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JackWyus&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackWyus&layout=compact&langs_count=7&theme=radical"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JackWyus&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackWyus&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="php" height="50" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 
 </div>
@@ -22,4 +22,6 @@
  
 </div>
 
-  <img align="right" alt="pic" height="160" style="border-radius:50px;" src="https://blogdoiphone.com/wp-content/uploads/2020/02/97387022d579d0d9806c8c3e176434f7.gif">
+  
+  
+ <img align="right" alt="pic" height="160" style="border-radius:50px;" src="https://blogdoiphone.com/wp-content/uploads/2020/02/97387022d579d0d9806c8c3e176434f7.gif">
