@@ -14,7 +14,7 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 
-  <img align="center" alt="Glsl" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg">
+<!--   <img align="center" alt="Glsl" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg"> -->
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
    
